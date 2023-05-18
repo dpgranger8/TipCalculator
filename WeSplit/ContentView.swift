@@ -70,7 +70,7 @@ struct ContentView: View {
                     Text("Total amount for the check")
                 }
             }
-            /*.navigationTitle("WeSplit")
+            .navigationTitle("WeSplit")
             .toolbar {
                 ToolbarItemGroup(placement: .keyboard) {
                     Spacer()
@@ -79,7 +79,7 @@ struct ContentView: View {
                         amountIsFocused = false
                     }
                 }
-            }*/
+            }
         }
     }
 }
